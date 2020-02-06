@@ -1,7 +1,0 @@
-README.md
-setup.py
-Bank_Account_or_Service_complaints.egg-info/PKG-INFO
-Bank_Account_or_Service_complaints.egg-info/SOURCES.txt
-Bank_Account_or_Service_complaints.egg-info/dependency_links.txt
-Bank_Account_or_Service_complaints.egg-info/requires.txt
-Bank_Account_or_Service_complaints.egg-info/top_level.txt
