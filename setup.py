@@ -19,7 +19,8 @@ REQUIRES_PYTHON = '>=3.6.0'
 # -----------------
 REQUIRED = [
     "pandas",
-    "notebook"
+    "notebook",
+    "matplotlib"
 ]
 
 
