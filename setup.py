@@ -20,7 +20,8 @@ REQUIRES_PYTHON = '>=3.6.0'
 REQUIRED = [
     "pandas",
     "notebook",
-    "matplotlib"
+    "matplotlib",
+    "scikit-learn"
 ]
 
 
