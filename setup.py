@@ -18,10 +18,13 @@ REQUIRES_PYTHON = '>=3.6.0'
 # Required packages
 # -----------------
 REQUIRED = [
+    "numpy",
     "pandas",
+    "seaborn",
     "notebook",
     "matplotlib",
-    "scikit-learn"
+    "scikit-learn",
+    "imbalanced-learn"
 ]
 
 
