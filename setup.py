@@ -8,11 +8,11 @@ from setuptools import find_packages, setup
 
 # Package meta-data
 # -----------------
-NAME = 'Bank Account or Service complaints'
-DESCRIPTION = ''
-EMAIL = 'aminedassouli@gmail.com'
-AUTHOR = 'Mohamed Amine Dassouli'
-REQUIRES_PYTHON = '>=3.6.0'
+NAME = "Bank Account or Service complaints"
+DESCRIPTION = "Analysis of the bank service complaints"
+EMAIL = "aminedassouli@gmail.com"
+AUTHOR = "Mohamed Amine Dassouli"
+REQUIRES_PYTHON = ">=3.6.0"
 
 
 # Required packages
